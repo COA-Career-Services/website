@@ -1,8 +1,4 @@
-- source: website
-  netlify:
-    - id: 2a4d1bc9-3515-43fa-b59e-8abe7a3c61c8
-      url: https://coacareerdatabase.netlify.app
 - source: project
   netlify:
-    - id: 29275b2c-a2f6-470e-92d3-5a90d351d4ab
-      url: https://lucky-cactus-781d78.netlify.app
+    - id: "29275b2c-a2f6-470e-92d3-5a90d351d4ab"
+      url: "https://coacareerdatabase.netlify.app/"
