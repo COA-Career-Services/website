@@ -8,7 +8,5 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 
 ```{=html}
-<div style="overflow: hidden;position: relative; height:200px;"  >
-      <iframe class="" rel="nofollow" style="height: 800px; width:1400px; transform: scale(0.294167) !important; transform-origin: 0px 0px;" frameborder="0" scrolling="no" 
-      src="https://2mmd8q-rudolfs-lukasevics.shinyapps.io/internships_app/"></iframe></div>
+<iframe src="https://2mmd8q-rudolfs-lukasevics.shinyapps.io/internships_app/" title="Quarto Documentation" class="frame"></iframe>
 ```
