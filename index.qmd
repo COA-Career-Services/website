@@ -1,12 +1,6 @@
 ---
-title: "COA Career Database"
+title: ""
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-
 ```{=html}
-<iframe src="https://2mmd8q-rudolfs-lukasevics.shinyapps.io/internships_app/"></iframe>
+<iframe width=100% height=100% src="https://2mmd8q-rudolfs-lukasevics.shinyapps.io/internships_app/"></iframe>
 ```
